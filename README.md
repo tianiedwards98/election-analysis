@@ -27,6 +27,6 @@ The analysis of teh election show that:
 - The winner of teh election was:
   - Diana Degette, who recieved "73.8%" of teh vote and 272,892 number of votes.
   
-  ## Challenge Overview
+ ## Challenge Overview
   
-  ## Challenge Summary
+ ## Challenge Summary
