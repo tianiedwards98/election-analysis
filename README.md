@@ -30,9 +30,9 @@ The analysis of the election show that:
  ## Challenge Overview
   Adding on to the previous tasks of the election audit of a recent local congressional election
   
-  1.Get the voter turnout for each county
-  2.Calculate the percentage of votes for each county out of the total count
-  3.Get the county with the highest turnout
+  1. Get the voter turnout for each county
+  2. Calculate the percentage of votes for each county out of the total count
+  3. Get the county with the highest turnout
   
  ## Challenge Summary
 The analysis of the election show that:
